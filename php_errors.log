@@ -1,0 +1,203 @@
+[05-Jun-2016 18:08:50 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 198
+[05-Jun-2016 18:08:50 UTC] PHP Stack trace:
+[05-Jun-2016 18:08:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:08:50 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:198
+[05-Jun-2016 18:08:50 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 219
+[05-Jun-2016 18:08:50 UTC] PHP Stack trace:
+[05-Jun-2016 18:08:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:08:50 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:219
+[05-Jun-2016 18:08:50 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 240
+[05-Jun-2016 18:08:50 UTC] PHP Stack trace:
+[05-Jun-2016 18:08:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:08:50 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:240
+[05-Jun-2016 18:22:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/init/index.php on line 302
+[05-Jun-2016 18:24:05 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 208
+[05-Jun-2016 18:24:05 UTC] PHP Stack trace:
+[05-Jun-2016 18:24:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:24:05 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:208
+[05-Jun-2016 18:24:05 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 229
+[05-Jun-2016 18:24:05 UTC] PHP Stack trace:
+[05-Jun-2016 18:24:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:24:05 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:229
+[05-Jun-2016 18:24:05 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 250
+[05-Jun-2016 18:24:05 UTC] PHP Stack trace:
+[05-Jun-2016 18:24:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:24:05 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:250
+[05-Jun-2016 18:24:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/init/index.php on line 268
+[05-Jun-2016 18:24:05 UTC] PHP Stack trace:
+[05-Jun-2016 18:24:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:24:07 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/init/index.php on line 268
+[05-Jun-2016 18:24:07 UTC] PHP Stack trace:
+[05-Jun-2016 18:24:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:25:31 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 208
+[05-Jun-2016 18:25:31 UTC] PHP Stack trace:
+[05-Jun-2016 18:25:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:25:31 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:208
+[05-Jun-2016 18:25:31 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 229
+[05-Jun-2016 18:25:31 UTC] PHP Stack trace:
+[05-Jun-2016 18:25:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:25:31 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:229
+[05-Jun-2016 18:25:31 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 250
+[05-Jun-2016 18:25:31 UTC] PHP Stack trace:
+[05-Jun-2016 18:25:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:25:31 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:250
+[05-Jun-2016 18:25:31 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Username' cannot be null in /home/ubuntu/workspace/init/index.php on line 285
+[05-Jun-2016 18:25:31 UTC] PHP Stack trace:
+[05-Jun-2016 18:25:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:25:31 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/init/index.php:285
+[05-Jun-2016 18:25:32 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Username' cannot be null in /home/ubuntu/workspace/init/index.php on line 285
+[05-Jun-2016 18:25:32 UTC] PHP Stack trace:
+[05-Jun-2016 18:25:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:25:32 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/init/index.php:285
+[05-Jun-2016 18:26:31 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 208
+[05-Jun-2016 18:26:31 UTC] PHP Stack trace:
+[05-Jun-2016 18:26:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:26:31 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:208
+[05-Jun-2016 18:26:31 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 229
+[05-Jun-2016 18:26:31 UTC] PHP Stack trace:
+[05-Jun-2016 18:26:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:26:31 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:229
+[05-Jun-2016 18:26:32 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 250
+[05-Jun-2016 18:26:32 UTC] PHP Stack trace:
+[05-Jun-2016 18:26:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:26:32 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:250
+[05-Jun-2016 18:26:32 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Email' cannot be null in /home/ubuntu/workspace/init/index.php on line 286
+[05-Jun-2016 18:26:32 UTC] PHP Stack trace:
+[05-Jun-2016 18:26:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:26:32 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/init/index.php:286
+[05-Jun-2016 18:26:33 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Email' cannot be null in /home/ubuntu/workspace/init/index.php on line 286
+[05-Jun-2016 18:26:33 UTC] PHP Stack trace:
+[05-Jun-2016 18:26:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:26:33 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/init/index.php:286
+[05-Jun-2016 18:28:09 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 208
+[05-Jun-2016 18:28:09 UTC] PHP Stack trace:
+[05-Jun-2016 18:28:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:28:09 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:208
+[05-Jun-2016 18:28:09 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 229
+[05-Jun-2016 18:28:09 UTC] PHP Stack trace:
+[05-Jun-2016 18:28:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:28:09 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:229
+[05-Jun-2016 18:28:09 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 250
+[05-Jun-2016 18:28:09 UTC] PHP Stack trace:
+[05-Jun-2016 18:28:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:28:09 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:250
+[05-Jun-2016 18:41:27 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 208
+[05-Jun-2016 18:41:27 UTC] PHP Stack trace:
+[05-Jun-2016 18:41:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:41:27 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:208
+[05-Jun-2016 18:41:27 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 229
+[05-Jun-2016 18:41:27 UTC] PHP Stack trace:
+[05-Jun-2016 18:41:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:41:27 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:229
+[05-Jun-2016 18:41:27 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 250
+[05-Jun-2016 18:41:27 UTC] PHP Stack trace:
+[05-Jun-2016 18:41:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:41:27 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:250
+[05-Jun-2016 18:43:54 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 208
+[05-Jun-2016 18:43:54 UTC] PHP Stack trace:
+[05-Jun-2016 18:43:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:43:54 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:208
+[05-Jun-2016 18:43:54 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 229
+[05-Jun-2016 18:43:54 UTC] PHP Stack trace:
+[05-Jun-2016 18:43:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:43:54 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:229
+[05-Jun-2016 18:43:54 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/init/index.php on line 250
+[05-Jun-2016 18:43:54 UTC] PHP Stack trace:
+[05-Jun-2016 18:43:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/init/index.php:0
+[05-Jun-2016 18:43:54 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/init/index.php:250
+[05-Jun-2016 19:01:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'Error  : SQLSTATE[HY000] [2002] Connection refused' in /home/ubuntu/workspace/head.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/Sales/Sales_Order_Add.php(2): require()
+#1 {main}
+  thrown in /home/ubuntu/workspace/head.php on line 14
+[05-Jun-2016 19:01:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'Error  : SQLSTATE[HY000] [2002] Connection refused' in /home/ubuntu/workspace/head.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/Sales/Sales_Order_Add.php(2): require()
+#1 {main}
+  thrown in /home/ubuntu/workspace/head.php on line 14
+[05-Jun-2016 19:02:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'Error  : SQLSTATE[HY000] [2002] Connection refused' in /home/ubuntu/workspace/head.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/Sales/Sales_Order_Add.php(2): require()
+#1 {main}
+  thrown in /home/ubuntu/workspace/head.php on line 14
+[05-Jun-2016 19:16:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ubuntu/workspace/Items/Item_Add.php on line 76
+[05-Jun-2016 19:16:09 UTC] PHP Stack trace:
+[05-Jun-2016 19:16:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Items/Item_Add.php:0
+[05-Jun-2016 19:16:22 UTC] PHP Fatal error:  Call to undefined method stdClass::COUNT() in /home/ubuntu/workspace/Items/Item_Add.php on line 76
+[05-Jun-2016 19:16:22 UTC] PHP Stack trace:
+[05-Jun-2016 19:16:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Items/Item_Add.php:0
+[05-Jun-2016 19:16:33 UTC] PHP Fatal error:  Call to undefined method stdClass::COUNT() in /home/ubuntu/workspace/Items/Item_Add.php on line 76
+[05-Jun-2016 19:16:33 UTC] PHP Stack trace:
+[05-Jun-2016 19:16:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Items/Item_Add.php:0
+[05-Jun-2016 19:17:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ubuntu/workspace/Items/Item_Add.php on line 76
+[05-Jun-2016 19:17:17 UTC] PHP Stack trace:
+[05-Jun-2016 19:17:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Items/Item_Add.php:0
+[05-Jun-2016 19:24:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Inventory/Receive_Search.php on line 153
+[05-Jun-2016 19:24:07 UTC] PHP Stack trace:
+[05-Jun-2016 19:24:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Inventory/Receive_Search.php:0
+[05-Jun-2016 20:44:54 UTC] PHP Parse error:  syntax error, unexpected '':Productcode'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ubuntu/workspace/Items/Item_Add.php on line 163
+[06-Jun-2016 02:54:15 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_ValidDate' in 'field list' in /home/ubuntu/workspace/Sales/Sales_Order_Add.php on line 194
+[06-Jun-2016 02:54:15 UTC] PHP Stack trace:
+[06-Jun-2016 02:54:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:0
+[06-Jun-2016 02:54:15 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:194
+[06-Jun-2016 02:54:15 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_List_Product_id' in 'field list' in /home/ubuntu/workspace/Sales/Sales_Order_Add.php on line 325
+[06-Jun-2016 02:54:15 UTC] PHP Stack trace:
+[06-Jun-2016 02:54:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:0
+[06-Jun-2016 02:54:15 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:325
+[06-Jun-2016 02:56:00 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`c9`.`SalesOrder`, CONSTRAINT `FKSalesOrder688273` FOREIGN KEY (`SO_DeliveryMethod_id`) REFERENCES `DeliveryMethod` (`DeliveryMethod_id`)) in /home/ubuntu/workspace/Sales/Sales_Order_Add.php on line 194
+[06-Jun-2016 02:56:00 UTC] PHP Stack trace:
+[06-Jun-2016 02:56:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:0
+[06-Jun-2016 02:56:00 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:194
+[06-Jun-2016 02:56:00 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_List_Product_id' in 'field list' in /home/ubuntu/workspace/Sales/Sales_Order_Add.php on line 325
+[06-Jun-2016 02:56:00 UTC] PHP Stack trace:
+[06-Jun-2016 02:56:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:0
+[06-Jun-2016 02:56:00 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:325
+[06-Jun-2016 02:59:31 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_List_Product_id' in 'field list' in /home/ubuntu/workspace/Sales/Sales_Order_Add.php on line 325
+[06-Jun-2016 02:59:31 UTC] PHP Stack trace:
+[06-Jun-2016 02:59:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:0
+[06-Jun-2016 02:59:31 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:325
+[06-Jun-2016 03:00:50 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_Amount' in 'field list' in /home/ubuntu/workspace/Sales/Sales_Order_Add.php on line 325
+[06-Jun-2016 03:00:50 UTC] PHP Stack trace:
+[06-Jun-2016 03:00:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:0
+[06-Jun-2016 03:00:50 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:325
+[06-Jun-2016 03:26:52 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_Amount' in 'field list' in /home/ubuntu/workspace/Sales/Sales_Order_Add.php on line 458
+[06-Jun-2016 03:26:52 UTC] PHP Stack trace:
+[06-Jun-2016 03:26:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:0
+[06-Jun-2016 03:26:52 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:458
+[06-Jun-2016 03:27:30 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE SOList_id = '2'' at line 9 in /home/ubuntu/workspace/Sales/Sales_Order_Add.php on line 456
+[06-Jun-2016 03:27:30 UTC] PHP Stack trace:
+[06-Jun-2016 03:27:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:0
+[06-Jun-2016 03:27:30 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:456
+[06-Jun-2016 03:52:59 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ubuntu/workspace/Sales/Sales_Order_Search.php on line 94
+[06-Jun-2016 03:52:59 UTC] PHP Stack trace:
+[06-Jun-2016 03:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/Sales_Order_Search.php:0
+[06-Jun-2016 03:53:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ubuntu/workspace/Sales/Sales_Order_Search.php on line 94
+[06-Jun-2016 03:53:19 UTC] PHP Stack trace:
+[06-Jun-2016 03:53:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/Sales_Order_Search.php:0
+[06-Jun-2016 03:59:52 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`c9`.`Customer`, CONSTRAINT `FKCustomer690418` FOREIGN KEY (`CustomerUser_id`) REFERENCES `Users` (`User_id`)) in /home/ubuntu/workspace/Partners/Customer.php on line 184
+[06-Jun-2016 03:59:52 UTC] PHP Stack trace:
+[06-Jun-2016 03:59:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Partners/Customer.php:0
+[06-Jun-2016 03:59:52 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Partners/Customer.php:184
+[06-Jun-2016 04:09:19 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`c9`.`Customer`, CONSTRAINT `FKCustomer690418` FOREIGN KEY (`CustomerUser_id`) REFERENCES `Users` (`User_id`)) in /home/ubuntu/workspace/Partners/Customer.php on line 124
+[06-Jun-2016 04:09:19 UTC] PHP Stack trace:
+[06-Jun-2016 04:09:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Partners/Customer.php:0
+[06-Jun-2016 04:09:19 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Partners/Customer.php:124
+[06-Jun-2016 04:09:38 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`c9`.`Customer`, CONSTRAINT `FKCustomer690418` FOREIGN KEY (`CustomerUser_id`) REFERENCES `Users` (`User_id`)) in /home/ubuntu/workspace/Partners/Customer.php on line 124
+[06-Jun-2016 04:09:38 UTC] PHP Stack trace:
+[06-Jun-2016 04:09:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/Partners/Customer.php:0
+[06-Jun-2016 04:09:38 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Partners/Customer.php:124
+[06-Jun-2016 04:25:04 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/ubuntu/workspace/Purchase/Purchase_Order_Add.php on line 282
+[06-Jun-2016 04:25:04 UTC] PHP Stack trace:
+[06-Jun-2016 04:25:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Purchase/Purchase_Order_Add.php:0
+[06-Jun-2016 04:25:04 UTC] PHP   2. array_filter() /home/ubuntu/workspace/Purchase/Purchase_Order_Add.php:282
+[06-Jun-2016 04:25:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Purchase/Purchase_Order_Add.php on line 292
+[06-Jun-2016 04:25:04 UTC] PHP Stack trace:
+[06-Jun-2016 04:25:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Purchase/Purchase_Order_Add.php:0
+[06-Jun-2016 07:35:30 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/ubuntu/workspace/Items/Item_Search.php on line 77
+[06-Jun-2016 07:35:30 UTC] PHP Stack trace:
+[06-Jun-2016 07:35:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Items/Item_Search.php:0
+[06-Jun-2016 07:35:30 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Items/Item_Search.php:77
+[06-Jun-2016 08:03:31 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/ubuntu/workspace/Sales/Sales_Order_Add.php on line 282
+[06-Jun-2016 08:03:31 UTC] PHP Stack trace:
+[06-Jun-2016 08:03:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:0
+[06-Jun-2016 08:03:31 UTC] PHP   2. array_filter() /home/ubuntu/workspace/Sales/Sales_Order_Add.php:282
